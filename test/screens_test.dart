@@ -1,3 +1,6 @@
+@Tags(['golden'])
+library;
+
 import 'package:easy_scrap/application/app_controller.dart';
 import 'package:easy_scrap/data/demo_recycling_repository.dart';
 import 'package:easy_scrap/data/bohol_locations.dart';

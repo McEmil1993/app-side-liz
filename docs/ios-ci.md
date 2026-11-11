@@ -35,9 +35,14 @@ or branch. If the default branch is renamed, update both branch filters.
   than 16.0. The main executable must specify exactly 16.0.
 - `ditto -c -k --sequesterRsrc --keepParent` preserves `Runner.app` inside
   `build/flutter-ios-unsigned-build.zip`. Upload retention is seven days.
-- The full automated test suite runs **after upload**. Failures still mark the
-  run failed, while a successfully built app remains downloadable. The live API
-  integration test stays skipped unless explicitly enabled with its backend.
+- Behavioral tests run on macOS **after upload** with
+  `flutter test --exclude-tags golden`. A separate `windows-2025` job runs all
+  eight pixel comparisons with `flutter test --tags golden`, using the same
+  Flutter 3.44.8 SDK as the Windows reference images. Every test remains covered
+  across these jobs; failures still mark the run failed while a successfully
+  built app remains downloadable. The live API integration test stays skipped
+  unless explicitly enabled with its backend. Screenshot differences are
+  uploaded as `golden-test-differences` when the Windows job fails.
 
 An unsigned `.app` ZIP is **not an installable IPA** and cannot be used directly
 on an ordinary iPhone. Nothing in this workflow uploads to TestFlight or the App
@@ -83,11 +88,16 @@ Windows checks performed with the existing Flutter SDK:
 - `flutter analyze`: passed, including the new layout test.
 - `python tool/verify_ios.py`: source and plugin checks passed.
 - Workflow YAML and expressions validated with actionlint 1.7.12.
-- Existing full test suite: **55 passed, 1 skipped, 2 failed** before adding the
-  iPhone 8 layout test. Failures are the registration greeting assertion in
-  `auth_widget_test.dart` and the household-home golden in `screens_test.dart`.
-  Both reflect existing differences in the user's working UI; do not regenerate
-  goldens or change application behavior merely to make CI green.
+- After the test fixes, the CI-equivalent commands passed locally on Windows:
+  **51 behavioral tests passed, 1 live API test skipped**, and **all 8 golden
+  tests passed**. The macOS job and hosted Windows job still require a new
+  Actions run to confirm their results on those runners.
+- The registration test now expects the current `Hello, Ana!` greeting while
+  retaining checks for password confirmation, the registered user's identity,
+  household role, empty pickup history, and successful UI rendering.
+- The household-home reference image was visually reviewed and updated only
+  for the intended greeting change from `Magandang araw, Juan!` to
+  `Hello, Juan!`. The other seven reference images remain unchanged.
 - `test/iphone8_layout_test.dart` exercises login and all five household/buyer
   tabs at 375 x 667 logical points, with the iPhone 8 status bar inset. This is
   a Flutter layout smoke test, not a native device test. Both tests passed.
@@ -103,6 +113,27 @@ a **physical iPhone 8 running iOS 16.x**: launch, login, all tabs, scrolling,
 keyboard behavior, maps, location/photos, secure storage, networking, and any
 enabled notification behavior. Test landscape and accessibility text sizes too.
 Compilation and the viewport smoke test do not prove full device compatibility.
+
+## Screenshot test maintenance
+
+The eight screenshot tests have the `golden` tag in `dart_test.yaml` and their
+test declarations. Run the complete suite on Windows with `flutter test`.
+For the same split as CI, run `flutter test --exclude-tags golden` for behavioral
+checks and `flutter test --tags golden` for screenshots. Exact pixel comparisons
+use Windows baselines because [Flutter documents platform-dependent font
+rendering](https://api.flutter.dev/flutter/flutter_test/matchesGoldenFile.html).
+There is no relaxed comparison tolerance or automatic baseline regeneration.
+
+When an intended UI change affects a screenshot, inspect its failure images,
+then update only the affected baseline on Windows using the pinned SDK, e.g.:
+
+```powershell
+flutter test test/screens_test.dart --plain-name "household-home phone layout" --update-goldens
+flutter test --tags golden
+```
+
+Review the image diff before committing. Updating baselines is a developer
+action; CI must compare against the committed images.
 
 ## Commit and push when ready
 

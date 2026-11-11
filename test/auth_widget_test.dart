@@ -97,7 +97,7 @@ void main() {
       expect(app.user.name, 'Ana Reyes');
       expect(app.role, UserRole.household);
       expect(app.ownPickups, isEmpty);
-      expect(find.text('Magandang araw, Ana!'), findsOneWidget);
+      expect(find.text('Hello, Ana!'), findsOneWidget);
       expect(tester.takeException(), isNull);
       await tester.pumpWidget(const SizedBox());
       app.dispose();
@@ -120,6 +120,6 @@ void main() {
       );
       await tester.pumpWidget(const SizedBox());
       app.dispose();
-    });
+    }, tags: 'golden');
   }
 }

@@ -15,6 +15,37 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  golden-tests:
+    name: Screenshot tests (Windows reference)
+    runs-on: windows-2025
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: '3.44.8'
+          cache: true
+
+      - name: Resolve locked dependencies
+        run: flutter pub get --enforce-lockfile
+
+      - name: Compare screenshots against Windows baselines
+        # Never update reference images automatically in CI.
+        run: flutter test --tags golden
+
+      - name: Upload screenshot differences on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: golden-test-differences
+          path: test/failures/
+          if-no-files-found: ignore
+          retention-days: 7
+
   unsigned-ios:
     runs-on: macos-26
     timeout-minutes: 45
@@ -100,5 +131,6 @@ jobs:
 
       - name: Run automated tests
         # Keep failures visible while preserving an already uploaded build.
+        # Pixel comparisons run in the Windows job that matches their baselines.
         # The existing live API test is opt-in and remains skipped without its backend.
-        run: flutter test
+        run: flutter test --exclude-tags golden
