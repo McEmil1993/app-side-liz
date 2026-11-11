@@ -121,6 +121,7 @@ jobs:
           echo 'Unsigned ARM64 app, minimum iOS 16.0. Requires signing before installation; physical iPhone 8 testing remains required.' >> "$GITHUB_STEP_SUMMARY"
 
       - name: Upload unsigned application archive
+        id: ios-artifact
         uses: actions/upload-artifact@v4
         with:
           name: flutter-ios-unsigned-build
@@ -128,6 +129,25 @@ jobs:
           if-no-files-found: error
           retention-days: 7
           compression-level: 0
+
+      - name: Download iOS app - link here
+        env:
+          IOS_ARTIFACT_URL: ${{ steps.ios-artifact.outputs.artifact-url }}
+        run: |
+          set -euo pipefail
+          test -n "$IOS_ARTIFACT_URL"
+          echo "DOWNLOAD IOS APP: $IOS_ARTIFACT_URL"
+          echo "Sign in to GitHub with access to this repository to download."
+          echo "Extract the downloaded ZIP, then flutter-ios-unsigned-build.zip, to find Runner.app."
+          echo "Available for 7 days. Unsigned app; signing is required before iPhone installation."
+          {
+            echo '## Download iOS app'
+            echo "[Download flutter-ios-unsigned-build]($IOS_ARTIFACT_URL)"
+            echo ''
+            echo 'Sign in to GitHub with access to this repository. Download is available for 7 days.'
+            echo 'Extract the downloaded ZIP, then flutter-ios-unsigned-build.zip, to find Runner.app.'
+            echo 'Unsigned app: signing is required before installation on an iPhone.'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Run automated tests
         # Keep failures visible while preserving an already uploaded build.
