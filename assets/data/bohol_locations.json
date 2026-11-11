@@ -1,0 +1,5791 @@
+{
+  "cities": [
+    {
+      "code": "071201000",
+      "name": "Alburquerque",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071202000",
+      "name": "Alicia",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071203000",
+      "name": "Anda",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071204000",
+      "name": "Antequera",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071205000",
+      "name": "Baclayon",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071206000",
+      "name": "Balilihan",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071207000",
+      "name": "Batuan",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071208000",
+      "name": "Bilar",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071209000",
+      "name": "Buenavista",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071210000",
+      "name": "Calape",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071211000",
+      "name": "Candijay",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071212000",
+      "name": "Carmen",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071213000",
+      "name": "Catigbian",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071214000",
+      "name": "Clarin",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071215000",
+      "name": "Corella",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071216000",
+      "name": "Cortes",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071217000",
+      "name": "Dagohoy",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071218000",
+      "name": "Danao",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071219000",
+      "name": "Dauis",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071220000",
+      "name": "Dimiao",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071221000",
+      "name": "Duero",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071222000",
+      "name": "Garcia Hernandez",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071223000",
+      "name": "Guindulman",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071224000",
+      "name": "Inabanga",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071225000",
+      "name": "Jagna",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071226000",
+      "name": "Getafe",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071227000",
+      "name": "Lila",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071228000",
+      "name": "Loay",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071229000",
+      "name": "Loboc",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071230000",
+      "name": "Loon",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071231000",
+      "name": "Mabini",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071232000",
+      "name": "Maribojoc",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071233000",
+      "name": "Panglao",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071234000",
+      "name": "Pilar",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071235000",
+      "name": "President Carlos P. Garcia",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071236000",
+      "name": "Sagbayan",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071237000",
+      "name": "San Isidro",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071238000",
+      "name": "San Miguel",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071239000",
+      "name": "Sevilla",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071240000",
+      "name": "Sierra Bullones",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071241000",
+      "name": "Sikatuna",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071242000",
+      "name": "City of Tagbilaran",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071243000",
+      "name": "Talibon",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071244000",
+      "name": "Trinidad",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071245000",
+      "name": "Tubigon",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071246000",
+      "name": "Ubay",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071247000",
+      "name": "Valencia",
+      "parentCode": "071200000"
+    },
+    {
+      "code": "071248000",
+      "name": "Bien Unido",
+      "parentCode": "071200000"
+    }
+  ],
+  "barangays": [
+    {
+      "code": "071201001",
+      "name": "Bahi",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201002",
+      "name": "Basacdacu",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201003",
+      "name": "Cantiguib",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201004",
+      "name": "Dangay",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201005",
+      "name": "East Poblacion",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201006",
+      "name": "Ponong",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201007",
+      "name": "San Agustin",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201008",
+      "name": "Santa Filomena",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201009",
+      "name": "Tagbuane",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201010",
+      "name": "Toril",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071201011",
+      "name": "West Poblacion",
+      "parentCode": "071201000"
+    },
+    {
+      "code": "071202001",
+      "name": "Cabatang",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202002",
+      "name": "Cagongcagong",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202003",
+      "name": "Cambaol",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202004",
+      "name": "Cayacay",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202005",
+      "name": "Del Monte",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202006",
+      "name": "Katipunan",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202007",
+      "name": "La Hacienda",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202008",
+      "name": "Mahayag",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202009",
+      "name": "Napo",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202010",
+      "name": "Pagahat",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202011",
+      "name": "Poblacion",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202012",
+      "name": "Progreso",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202013",
+      "name": "Putlongcam",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202014",
+      "name": "Sudlon",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071202015",
+      "name": "Untaga",
+      "parentCode": "071202000"
+    },
+    {
+      "code": "071203001",
+      "name": "Almaria",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203002",
+      "name": "Bacong",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203003",
+      "name": "Badiang",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203004",
+      "name": "Buenasuerte",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203005",
+      "name": "Candabong",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203006",
+      "name": "Casica",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203007",
+      "name": "Katipunan",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203008",
+      "name": "Linawan",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203009",
+      "name": "Lundag",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203010",
+      "name": "Poblacion",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203011",
+      "name": "Santa Cruz",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203012",
+      "name": "Suba",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203013",
+      "name": "Talisay",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203014",
+      "name": "Tanod",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203015",
+      "name": "Tawid",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071203016",
+      "name": "Virgen",
+      "parentCode": "071203000"
+    },
+    {
+      "code": "071204001",
+      "name": "Angilan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204002",
+      "name": "Bantolinao",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204003",
+      "name": "Bicahan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204004",
+      "name": "Bitaugan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204005",
+      "name": "Bungahan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204007",
+      "name": "Canlaas",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204008",
+      "name": "Cansibuan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204009",
+      "name": "Can-omay",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204010",
+      "name": "Celing",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204011",
+      "name": "Danao",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204012",
+      "name": "Danicop",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204013",
+      "name": "Mag-aso",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204014",
+      "name": "Poblacion",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204015",
+      "name": "Quinapon-an",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204016",
+      "name": "Santo Rosario",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204017",
+      "name": "Tabuan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204018",
+      "name": "Tagubaas",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204019",
+      "name": "Tupas",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204020",
+      "name": "Ubojan",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204021",
+      "name": "Viga",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071204022",
+      "name": "Villa Aurora",
+      "parentCode": "071204000"
+    },
+    {
+      "code": "071205001",
+      "name": "Cambanac",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205002",
+      "name": "Dasitam",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205003",
+      "name": "Buenaventura",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205004",
+      "name": "Guiwanon",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205005",
+      "name": "Landican",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205006",
+      "name": "Laya",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205007",
+      "name": "Libertad",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205008",
+      "name": "Montana",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205009",
+      "name": "Pamilacan",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205010",
+      "name": "Payahan",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205011",
+      "name": "Poblacion",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205012",
+      "name": "San Isidro",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205013",
+      "name": "San Roque",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205014",
+      "name": "San Vicente",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205015",
+      "name": "Santa Cruz",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205016",
+      "name": "Taguihon",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071205017",
+      "name": "Tanday",
+      "parentCode": "071205000"
+    },
+    {
+      "code": "071206001",
+      "name": "Baucan Norte",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206002",
+      "name": "Baucan Sur",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206003",
+      "name": "Boctol",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206004",
+      "name": "Boyog Norte",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206005",
+      "name": "Boyog Proper",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206006",
+      "name": "Boyog Sur",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206007",
+      "name": "Cabad",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206008",
+      "name": "Candasig",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206009",
+      "name": "Cantalid",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206010",
+      "name": "Cantomimbo",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206011",
+      "name": "Cogon",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206012",
+      "name": "Datag Norte",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206013",
+      "name": "Datag Sur",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206014",
+      "name": "Del Carmen Este (Pob.)",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206015",
+      "name": "Del Carmen Norte (Pob.)",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206016",
+      "name": "Del Carmen Weste (Pob.)",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206017",
+      "name": "Del Carmen Sur (Pob.)",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206018",
+      "name": "Del Rosario",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206019",
+      "name": "Dorol",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206020",
+      "name": "Haguilanan Grande",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206021",
+      "name": "Hanopol Este",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206022",
+      "name": "Hanopol Norte",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206023",
+      "name": "Hanopol Weste",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206024",
+      "name": "Magsija",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206025",
+      "name": "Maslog",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206026",
+      "name": "Sagasa",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206027",
+      "name": "Sal-ing",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206028",
+      "name": "San Isidro",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206029",
+      "name": "San Roque",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206030",
+      "name": "Santo Niño",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071206031",
+      "name": "Tagustusan",
+      "parentCode": "071206000"
+    },
+    {
+      "code": "071207001",
+      "name": "Aloja",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207002",
+      "name": "Cabacnitan",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207003",
+      "name": "Cambacay",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207004",
+      "name": "Cantigdas",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207005",
+      "name": "Garcia",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207006",
+      "name": "Janlud",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207008",
+      "name": "Poblacion Norte",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207009",
+      "name": "Poblacion Sur",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207010",
+      "name": "Poblacion Vieja",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207011",
+      "name": "Quezon",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207012",
+      "name": "Quirino",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207013",
+      "name": "Rizal",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207014",
+      "name": "Rosariohan",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207016",
+      "name": "Behind The Clouds",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071207017",
+      "name": "Santa Cruz",
+      "parentCode": "071207000"
+    },
+    {
+      "code": "071208001",
+      "name": "Bonifacio",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208002",
+      "name": "Bugang Norte",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208003",
+      "name": "Bugang Sur",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208004",
+      "name": "Cabacnitan",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208005",
+      "name": "Cambigsi",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208006",
+      "name": "Campagao",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208007",
+      "name": "Cansumbol",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208008",
+      "name": "Dagohoy",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208009",
+      "name": "Owac",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208010",
+      "name": "Poblacion",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208011",
+      "name": "Quezon",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208012",
+      "name": "Riverside",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208013",
+      "name": "Rizal",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208014",
+      "name": "Roxas",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208015",
+      "name": "Subayon",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208016",
+      "name": "Villa Aurora",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208017",
+      "name": "Villa Suerte",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208018",
+      "name": "Yanaya",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071208019",
+      "name": "Zamora",
+      "parentCode": "071208000"
+    },
+    {
+      "code": "071209001",
+      "name": "Anonang",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209002",
+      "name": "Asinan",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209003",
+      "name": "Bago",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209004",
+      "name": "Baluarte",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209005",
+      "name": "Bantuan",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209006",
+      "name": "Bato",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209007",
+      "name": "Bonotbonot",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209008",
+      "name": "Bugaong",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209011",
+      "name": "Cambuhat",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209012",
+      "name": "Cambus-oc",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209013",
+      "name": "Cangawa",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209014",
+      "name": "Cantomugcad",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209015",
+      "name": "Cantores",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209016",
+      "name": "Cantuba",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209017",
+      "name": "Catigbian",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209018",
+      "name": "Cawag",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209019",
+      "name": "Cruz",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209020",
+      "name": "Dait",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209021",
+      "name": "Eastern Cabul-an",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209022",
+      "name": "Hunan",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209025",
+      "name": "Lapacan Norte",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209026",
+      "name": "Lapacan Sur",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209028",
+      "name": "Lubang",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209029",
+      "name": "Lusong",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209030",
+      "name": "Magkaya",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209031",
+      "name": "Merryland",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209032",
+      "name": "Nueva Granada",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209033",
+      "name": "Nueva Montana",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209034",
+      "name": "Overland",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209035",
+      "name": "Panghagban",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209036",
+      "name": "Poblacion",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209037",
+      "name": "Puting Bato",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209038",
+      "name": "Rufo Hill",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209039",
+      "name": "Sweetland",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071209040",
+      "name": "Western Cabul-an",
+      "parentCode": "071209000"
+    },
+    {
+      "code": "071210001",
+      "name": "Abucayan Norte",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210002",
+      "name": "Abucayan Sur",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210003",
+      "name": "Banlasan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210004",
+      "name": "Bentig",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210005",
+      "name": "Binogawan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210006",
+      "name": "Bonbon",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210007",
+      "name": "Cabayugan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210008",
+      "name": "Cabudburan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210009",
+      "name": "Calunasan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210010",
+      "name": "Camias",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210011",
+      "name": "Canguha",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210012",
+      "name": "Catmonan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210013",
+      "name": "Desamparados (Pob.)",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210014",
+      "name": "Kahayag",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210015",
+      "name": "Kinabag-an",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210016",
+      "name": "Labuon",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210017",
+      "name": "Lawis",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210018",
+      "name": "Liboron",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210019",
+      "name": "Lo-oc",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210020",
+      "name": "Lomboy",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210021",
+      "name": "Lucob",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210022",
+      "name": "Madangog",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210023",
+      "name": "Magtongtong",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210024",
+      "name": "Mandaug",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210025",
+      "name": "Mantatao",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210027",
+      "name": "Sampoangon",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210028",
+      "name": "San Isidro",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210029",
+      "name": "Santa Cruz (Pob.)",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210030",
+      "name": "Sojoton",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210031",
+      "name": "Talisay",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210032",
+      "name": "Tinibgan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210033",
+      "name": "Tultugan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071210034",
+      "name": "Ulbujan",
+      "parentCode": "071210000"
+    },
+    {
+      "code": "071211001",
+      "name": "Abihilan",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211002",
+      "name": "Anoling",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211003",
+      "name": "Boyo-an",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211004",
+      "name": "Cadapdapan",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211005",
+      "name": "Cambane",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211006",
+      "name": "Can-olin",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211007",
+      "name": "Canawa",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211008",
+      "name": "Cogtong",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211009",
+      "name": "La Union",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211010",
+      "name": "Luan",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211011",
+      "name": "Lungsoda-an",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211012",
+      "name": "Mahangin",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211013",
+      "name": "Pagahat",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211014",
+      "name": "Panadtaran",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211015",
+      "name": "Panas",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211016",
+      "name": "Poblacion",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211017",
+      "name": "San Isidro",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211018",
+      "name": "Tambongan",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211019",
+      "name": "Tawid",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211021",
+      "name": "Tugas",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071211022",
+      "name": "Tubod",
+      "parentCode": "071211000"
+    },
+    {
+      "code": "071212001",
+      "name": "Alegria",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212002",
+      "name": "Bicao",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212003",
+      "name": "Buenavista",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212004",
+      "name": "Buenos Aires",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212005",
+      "name": "Calatrava",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212006",
+      "name": "El Progreso",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212007",
+      "name": "El Salvador",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212008",
+      "name": "Guadalupe",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212009",
+      "name": "Katipunan",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212010",
+      "name": "La Libertad",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212011",
+      "name": "La Paz",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212012",
+      "name": "La Salvacion",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212013",
+      "name": "La Victoria",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212014",
+      "name": "Matin-ao",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212015",
+      "name": "Montehermoso",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212016",
+      "name": "Montesuerte",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212017",
+      "name": "Montesunting",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212018",
+      "name": "Montevideo",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212019",
+      "name": "Nueva Fuerza",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212020",
+      "name": "Nueva Vida Este",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212021",
+      "name": "Nueva Vida Sur",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212022",
+      "name": "Nueva Vida Norte",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212023",
+      "name": "Poblacion Norte",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212024",
+      "name": "Poblacion Sur",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212025",
+      "name": "Tambo-an",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212026",
+      "name": "Vallehermoso",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212027",
+      "name": "Villaflor",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212028",
+      "name": "Villafuerte",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071212029",
+      "name": "Villarcayo",
+      "parentCode": "071212000"
+    },
+    {
+      "code": "071213001",
+      "name": "Alegria",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213002",
+      "name": "Ambuan",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213003",
+      "name": "Baang",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213004",
+      "name": "Bagtic",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213005",
+      "name": "Bongbong",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213007",
+      "name": "Cambailan",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213008",
+      "name": "Candumayao",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213009",
+      "name": "Kang-iras",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213011",
+      "name": "Causwagan Norte",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213013",
+      "name": "Hagbuaya",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213014",
+      "name": "Haguilanan",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213015",
+      "name": "Libertad Sur",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213016",
+      "name": "Liboron",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213017",
+      "name": "Mahayag Norte",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213018",
+      "name": "Mahayag Sur",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213019",
+      "name": "Maitum",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213020",
+      "name": "Mantasida",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213021",
+      "name": "Poblacion",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213022",
+      "name": "Rizal",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213025",
+      "name": "Sinakayanan",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213026",
+      "name": "Triple Union",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071213027",
+      "name": "Poblacion Weste",
+      "parentCode": "071213000"
+    },
+    {
+      "code": "071214001",
+      "name": "Bacani",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214002",
+      "name": "Bogtongbod",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214003",
+      "name": "Bonbon",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214004",
+      "name": "Bontud",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214005",
+      "name": "Buacao",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214006",
+      "name": "Buangan",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214007",
+      "name": "Cabog",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214008",
+      "name": "Caboy",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214009",
+      "name": "Caluwasan",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214010",
+      "name": "Candajec",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214011",
+      "name": "Cantoyoc",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214012",
+      "name": "Comaang",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214013",
+      "name": "Danahao",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214014",
+      "name": "Katipunan",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214015",
+      "name": "Lajog",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214016",
+      "name": "Mataub",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214017",
+      "name": "Nahawan",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214018",
+      "name": "Poblacion Centro",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214019",
+      "name": "Poblacion Norte",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214020",
+      "name": "Poblacion Sur",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214021",
+      "name": "Tangaran",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214022",
+      "name": "Tontunan",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214023",
+      "name": "Tubod",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071214024",
+      "name": "Villaflor",
+      "parentCode": "071214000"
+    },
+    {
+      "code": "071215001",
+      "name": "Anislag",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215002",
+      "name": "Canangca-an",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215003",
+      "name": "Canapnapan",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215004",
+      "name": "Cancatac",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215005",
+      "name": "Pandol",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215006",
+      "name": "Poblacion",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215007",
+      "name": "Sambog",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071215008",
+      "name": "Tanday",
+      "parentCode": "071215000"
+    },
+    {
+      "code": "071216001",
+      "name": "De la Paz",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216002",
+      "name": "Fatima",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216003",
+      "name": "Loreto",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216004",
+      "name": "Lourdes",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216005",
+      "name": "Malayo Norte",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216006",
+      "name": "Malayo Sur",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216007",
+      "name": "Monserrat",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216008",
+      "name": "New Lourdes",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216009",
+      "name": "Patrocinio",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216010",
+      "name": "Poblacion",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216011",
+      "name": "Rosario",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216012",
+      "name": "Salvador",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216013",
+      "name": "San Roque",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071216014",
+      "name": "Upper de la Paz",
+      "parentCode": "071216000"
+    },
+    {
+      "code": "071217001",
+      "name": "Babag",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217002",
+      "name": "Can-oling",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217003",
+      "name": "Candelaria",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217004",
+      "name": "Estaca",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217005",
+      "name": "Cagawasan",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217006",
+      "name": "Cagawitan",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217007",
+      "name": "Caluasan",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217008",
+      "name": "La Esperanza",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217009",
+      "name": "Mahayag",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217010",
+      "name": "Malitbog",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217011",
+      "name": "Poblacion",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217012",
+      "name": "San Miguel",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217013",
+      "name": "San Vicente",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217014",
+      "name": "Santa Cruz",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071217015",
+      "name": "Villa Aurora",
+      "parentCode": "071217000"
+    },
+    {
+      "code": "071218001",
+      "name": "Cabatuan",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218002",
+      "name": "Cantubod",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218003",
+      "name": "Carbon",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218004",
+      "name": "Concepcion",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218005",
+      "name": "Dagohoy",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218006",
+      "name": "Hibale",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218007",
+      "name": "Magtangtang",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218008",
+      "name": "Nahud",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218009",
+      "name": "Poblacion",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218010",
+      "name": "Remedios",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218011",
+      "name": "San Carlos",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218012",
+      "name": "San Miguel",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218013",
+      "name": "Santa Fe",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218014",
+      "name": "Santo Niño",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218015",
+      "name": "Tabok",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218016",
+      "name": "Taming",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071218017",
+      "name": "Villa Anunciado",
+      "parentCode": "071218000"
+    },
+    {
+      "code": "071219001",
+      "name": "Biking",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219002",
+      "name": "Bingag",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219003",
+      "name": "San Isidro",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219004",
+      "name": "Catarman",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219005",
+      "name": "Dao",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219006",
+      "name": "Mayacabac",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219007",
+      "name": "Poblacion",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219008",
+      "name": "Songculan",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219009",
+      "name": "Tabalong",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219010",
+      "name": "Tinago",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219011",
+      "name": "Totolan",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071219012",
+      "name": "Mariveles",
+      "parentCode": "071219000"
+    },
+    {
+      "code": "071220001",
+      "name": "Abihid",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220002",
+      "name": "Alemania",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220003",
+      "name": "Baguhan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220004",
+      "name": "Bakilid",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220005",
+      "name": "Balbalan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220006",
+      "name": "Banban",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220007",
+      "name": "Bauhugan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220008",
+      "name": "Bilisan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220009",
+      "name": "Cabagakian",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220010",
+      "name": "Cabanbanan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220011",
+      "name": "Cadap-agan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220012",
+      "name": "Cambacol",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220013",
+      "name": "Cambayaon",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220014",
+      "name": "Canhayupon",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220015",
+      "name": "Canlambong",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220016",
+      "name": "Casingan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220017",
+      "name": "Catugasan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220018",
+      "name": "Datag",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220019",
+      "name": "Guindaguitan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220020",
+      "name": "Guingoyuran",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220021",
+      "name": "Ile",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220022",
+      "name": "Lapsaon",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220023",
+      "name": "Limokon Ilaod",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220024",
+      "name": "Limokon Ilaya",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220025",
+      "name": "Luyo",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220026",
+      "name": "Malijao",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220027",
+      "name": "Oac",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220028",
+      "name": "Pagsa",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220029",
+      "name": "Pangihawan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220030",
+      "name": "Sawang",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220031",
+      "name": "Puangyuta",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220033",
+      "name": "Tangohay",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220036",
+      "name": "Taongon Cabatuan",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220037",
+      "name": "Tawid Bitaog",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071220038",
+      "name": "Taongon Can-andam",
+      "parentCode": "071220000"
+    },
+    {
+      "code": "071221001",
+      "name": "Alejawan",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221002",
+      "name": "Angilan",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221003",
+      "name": "Anibongan",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221004",
+      "name": "Bangwalog",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221005",
+      "name": "Cansuhay",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221006",
+      "name": "Danao",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221007",
+      "name": "Duay",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221008",
+      "name": "Guinsularan",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221009",
+      "name": "Itum",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221010",
+      "name": "Langkis",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221011",
+      "name": "Lobogon",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221012",
+      "name": "Madua Norte",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221013",
+      "name": "Madua Sur",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221014",
+      "name": "Mambool",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221015",
+      "name": "Mawi",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221016",
+      "name": "Payao",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221017",
+      "name": "San Antonio (Pob.)",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221018",
+      "name": "San Isidro",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221019",
+      "name": "San Pedro",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221020",
+      "name": "Imelda",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071221021",
+      "name": "Taytay",
+      "parentCode": "071221000"
+    },
+    {
+      "code": "071222001",
+      "name": "Abijilan",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222002",
+      "name": "Antipolo",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222003",
+      "name": "Basiao",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222004",
+      "name": "Cagwang",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222005",
+      "name": "Calma",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222006",
+      "name": "Cambuyo",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222007",
+      "name": "Canayaon East",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222008",
+      "name": "Canayaon West",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222009",
+      "name": "Candanas",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222010",
+      "name": "Candulao",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222011",
+      "name": "Catmon",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222012",
+      "name": "Cayam",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222013",
+      "name": "Cupa",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222014",
+      "name": "Datag",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222015",
+      "name": "Estaca",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222016",
+      "name": "Libertad",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222017",
+      "name": "Lungsodaan East",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222018",
+      "name": "Lungsodaan West",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222019",
+      "name": "Malinao",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222020",
+      "name": "Manaba",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222021",
+      "name": "Pasong",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222022",
+      "name": "Poblacion East",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222023",
+      "name": "Poblacion West",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222024",
+      "name": "Sacaon",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222025",
+      "name": "Sampong",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222026",
+      "name": "Tabuan",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222027",
+      "name": "Togbongon",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222028",
+      "name": "Ulbujan East",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222029",
+      "name": "Ulbujan West",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071222030",
+      "name": "Victoria",
+      "parentCode": "071222000"
+    },
+    {
+      "code": "071223001",
+      "name": "Basdio",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223002",
+      "name": "Bato",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223003",
+      "name": "Bayong",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223004",
+      "name": "Biabas",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223005",
+      "name": "Bulawan",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223006",
+      "name": "Cabantian",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223007",
+      "name": "Canhaway",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223008",
+      "name": "Cansiwang",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223009",
+      "name": "Casbu",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223010",
+      "name": "Catungawan Sur",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223011",
+      "name": "Catungawan Norte",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223013",
+      "name": "Guinacot",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223014",
+      "name": "Guio-ang",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223016",
+      "name": "Lombog",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223017",
+      "name": "Mayuga",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223018",
+      "name": "Sawang (Pob.)",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223019",
+      "name": "Tabajan (Pob.)",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223021",
+      "name": "Tabunok",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071223022",
+      "name": "Trinidad",
+      "parentCode": "071223000"
+    },
+    {
+      "code": "071224001",
+      "name": "Anonang",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224002",
+      "name": "Bahan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224003",
+      "name": "Badiang",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224005",
+      "name": "Baguhan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224007",
+      "name": "Banahao",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224008",
+      "name": "Baogo",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224009",
+      "name": "Bugang",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224010",
+      "name": "Cagawasan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224011",
+      "name": "Cagayan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224012",
+      "name": "Cambitoon",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224013",
+      "name": "Canlinte",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224014",
+      "name": "Cawayan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224015",
+      "name": "Cogon",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224016",
+      "name": "Cuaming",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224017",
+      "name": "Dagnawan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224018",
+      "name": "Dagohoy",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224019",
+      "name": "Dait Sur",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224020",
+      "name": "Datag",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224021",
+      "name": "Fatima",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224022",
+      "name": "Hambongan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224023",
+      "name": "Ilaud (Pob.)",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224024",
+      "name": "Ilaya",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224025",
+      "name": "Ilihan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224027",
+      "name": "Lapacan Norte",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224028",
+      "name": "Lapacan Sur",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224029",
+      "name": "Lawis",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224030",
+      "name": "Liloan Norte",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224031",
+      "name": "Liloan Sur",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224032",
+      "name": "Lomboy",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224033",
+      "name": "Lonoy Cainsican",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224034",
+      "name": "Lonoy Roma",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224035",
+      "name": "Lutao",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224036",
+      "name": "Luyo",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224037",
+      "name": "Mabuhay",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224038",
+      "name": "Maria Rosario",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224039",
+      "name": "Nabuad",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224040",
+      "name": "Napo",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224041",
+      "name": "Ondol",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224042",
+      "name": "Poblacion",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224043",
+      "name": "Riverside",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224044",
+      "name": "Saa",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224045",
+      "name": "San Isidro",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224046",
+      "name": "San Jose",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224047",
+      "name": "Santo Niño",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224048",
+      "name": "Santo Rosario",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224049",
+      "name": "Sua",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224050",
+      "name": "Tambook",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224051",
+      "name": "Tungod",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224052",
+      "name": "U-og",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071224053",
+      "name": "Ubujan",
+      "parentCode": "071224000"
+    },
+    {
+      "code": "071225001",
+      "name": "Alejawan",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225002",
+      "name": "Balili",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225003",
+      "name": "Boctol",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225004",
+      "name": "Buyog",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225005",
+      "name": "Bunga Ilaya",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225006",
+      "name": "Bunga Mar",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225007",
+      "name": "Cabunga-an",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225008",
+      "name": "Calabacita",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225009",
+      "name": "Cambugason",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225010",
+      "name": "Can-ipol",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225011",
+      "name": "Canjulao",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225012",
+      "name": "Cantagay",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225013",
+      "name": "Cantuyoc",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225014",
+      "name": "Can-uba",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225015",
+      "name": "Can-upao",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225016",
+      "name": "Faraon",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225017",
+      "name": "Ipil",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225018",
+      "name": "Kinagbaan",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225019",
+      "name": "Laca",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225020",
+      "name": "Larapan",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225021",
+      "name": "Lonoy",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225022",
+      "name": "Looc",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225023",
+      "name": "Malbog",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225024",
+      "name": "Mayana",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225025",
+      "name": "Naatang",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225026",
+      "name": "Nausok",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225027",
+      "name": "Odiong",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225028",
+      "name": "Pagina",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225029",
+      "name": "Pangdan",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225030",
+      "name": "Poblacion",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225031",
+      "name": "Tejero",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225032",
+      "name": "Tubod Mar",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071225033",
+      "name": "Tubod Monte",
+      "parentCode": "071225000"
+    },
+    {
+      "code": "071226001",
+      "name": "Alumar",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226002",
+      "name": "Banacon",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226003",
+      "name": "Buyog",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226004",
+      "name": "Cabasakan",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226006",
+      "name": "Campao Occidental",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226007",
+      "name": "Campao Oriental",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226008",
+      "name": "Cangmundo",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226009",
+      "name": "Carlos P. Garcia",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226010",
+      "name": "Corte Baud",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226011",
+      "name": "Handumon",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226012",
+      "name": "Jagoliao",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226013",
+      "name": "Jandayan Norte",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226014",
+      "name": "Jandayan Sur",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226015",
+      "name": "Mahanay",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226016",
+      "name": "Nasingin",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226017",
+      "name": "Pandanon",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226018",
+      "name": "Poblacion",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226019",
+      "name": "Saguise",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226020",
+      "name": "Salog",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226021",
+      "name": "San Jose",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226022",
+      "name": "Santo Niño",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226023",
+      "name": "Taytay",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226024",
+      "name": "Tugas",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071226025",
+      "name": "Tulang",
+      "parentCode": "071226000"
+    },
+    {
+      "code": "071227001",
+      "name": "Banban",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227002",
+      "name": "Bonkokan Ilaya",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227003",
+      "name": "Bonkokan Ubos",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227004",
+      "name": "Calvario",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227005",
+      "name": "Candulang",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227006",
+      "name": "Catugasan",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227007",
+      "name": "Cayupo",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227008",
+      "name": "Cogon",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227009",
+      "name": "Jambawan",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227010",
+      "name": "La Fortuna",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227011",
+      "name": "Lomanoy",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227012",
+      "name": "Macalingan",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227013",
+      "name": "Malinao East",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227014",
+      "name": "Malinao West",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227015",
+      "name": "Nagsulay",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227016",
+      "name": "Poblacion",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227017",
+      "name": "Taug",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071227018",
+      "name": "Tiguis",
+      "parentCode": "071227000"
+    },
+    {
+      "code": "071228001",
+      "name": "Agape",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228002",
+      "name": "Alegria Norte",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228003",
+      "name": "Alegria Sur",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228004",
+      "name": "Bonbon",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228005",
+      "name": "Botoc Occidental",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228006",
+      "name": "Botoc Oriental",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228007",
+      "name": "Calvario",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228008",
+      "name": "Concepcion",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228010",
+      "name": "Hinawanan",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228011",
+      "name": "Las Salinas Norte",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228012",
+      "name": "Las Salinas Sur",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228013",
+      "name": "Palo",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228014",
+      "name": "Poblacion Ibabao",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228015",
+      "name": "Poblacion Ubos",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228016",
+      "name": "Sagnap",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228017",
+      "name": "Tambangan",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228018",
+      "name": "Tangcasan Norte",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228019",
+      "name": "Tangcasan Sur",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228020",
+      "name": "Tayong Occidental",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228021",
+      "name": "Tayong Oriental",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228023",
+      "name": "Tocdog Dacu",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228024",
+      "name": "Tocdog Ilaya",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228025",
+      "name": "Villalimpia",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071228026",
+      "name": "Yanangan",
+      "parentCode": "071228000"
+    },
+    {
+      "code": "071229001",
+      "name": "Agape",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229002",
+      "name": "Alegria",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229003",
+      "name": "Bagumbayan",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229004",
+      "name": "Bahian",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229005",
+      "name": "Bonbon Lower",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229006",
+      "name": "Bonbon Upper",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229007",
+      "name": "Buenavista",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229008",
+      "name": "Bugho",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229009",
+      "name": "Cabadiangan",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229010",
+      "name": "Calunasan Norte",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229011",
+      "name": "Calunasan Sur",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229012",
+      "name": "Camayaan",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229013",
+      "name": "Cambance",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229014",
+      "name": "Candabong",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229015",
+      "name": "Candasag",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229016",
+      "name": "Canlasid",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229017",
+      "name": "Gon-ob",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229018",
+      "name": "Gotozon",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229019",
+      "name": "Jimilian",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229020",
+      "name": "Oy",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229021",
+      "name": "Poblacion Sawang",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229022",
+      "name": "Poblacion Ondol",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229023",
+      "name": "Quinoguitan",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229024",
+      "name": "Taytay",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229025",
+      "name": "Tigbao",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229026",
+      "name": "Ugpong",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229027",
+      "name": "Valladolid",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071229028",
+      "name": "Villaflor",
+      "parentCode": "071229000"
+    },
+    {
+      "code": "071230001",
+      "name": "Agsoso",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230002",
+      "name": "Badbad Occidental",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230003",
+      "name": "Badbad Oriental",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230004",
+      "name": "Bagacay Katipunan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230005",
+      "name": "Bagacay Kawayan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230006",
+      "name": "Bagacay Saong",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230007",
+      "name": "Bahi",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230008",
+      "name": "Basac",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230009",
+      "name": "Basdacu",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230010",
+      "name": "Basdio",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230011",
+      "name": "Biasong",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230012",
+      "name": "Bongco",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230013",
+      "name": "Bugho",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230014",
+      "name": "Cabacongan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230015",
+      "name": "Cabadug",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230016",
+      "name": "Cabug",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230017",
+      "name": "Calayugan Norte",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230018",
+      "name": "Calayugan Sur",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230019",
+      "name": "Canmaag",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230020",
+      "name": "Cambaquiz",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230021",
+      "name": "Campatud",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230022",
+      "name": "Candaigan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230023",
+      "name": "Canhangdon Occidental",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230024",
+      "name": "Canhangdon Oriental",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230025",
+      "name": "Canigaan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230026",
+      "name": "Canmanoc",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230027",
+      "name": "Cansuagwit",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230028",
+      "name": "Cansubayon",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230029",
+      "name": "Catagbacan Handig",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230030",
+      "name": "Catagbacan Norte",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230031",
+      "name": "Catagbacan Sur",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230032",
+      "name": "Cantam-is Bago",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230033",
+      "name": "Cantaongon",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230034",
+      "name": "Cantumocad",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230035",
+      "name": "Cantam-is Baslay",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230036",
+      "name": "Cogon Norte (Pob.)",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230037",
+      "name": "Cogon Sur",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230038",
+      "name": "Cuasi",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230039",
+      "name": "Genomoan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230040",
+      "name": "Lintuan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230041",
+      "name": "Looc",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230042",
+      "name": "Mocpoc Norte",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230043",
+      "name": "Mocpoc Sur",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230044",
+      "name": "Nagtuang",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230045",
+      "name": "Napo (Pob.)",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230046",
+      "name": "Nueva Vida",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230047",
+      "name": "Panangquilon",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230048",
+      "name": "Pantudlan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230049",
+      "name": "Pig-ot",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230050",
+      "name": "Moto Norte (Pob.)",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230051",
+      "name": "Moto Sur (Pob.)",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230052",
+      "name": "Pondol",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230053",
+      "name": "Quinobcoban",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230054",
+      "name": "Sondol",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230055",
+      "name": "Song-on",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230056",
+      "name": "Talisay",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230057",
+      "name": "Tan-awan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230058",
+      "name": "Tangnan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230059",
+      "name": "Taytay",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230060",
+      "name": "Ticugan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230061",
+      "name": "Tiwi",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230062",
+      "name": "Tontonan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230063",
+      "name": "Tubodacu",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230064",
+      "name": "Tubodio",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230065",
+      "name": "Tubuan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230066",
+      "name": "Ubayon",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071230067",
+      "name": "Ubojan",
+      "parentCode": "071230000"
+    },
+    {
+      "code": "071231001",
+      "name": "Abaca",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231002",
+      "name": "Abad Santos",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231003",
+      "name": "Aguipo",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231004",
+      "name": "Concepcion",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231005",
+      "name": "Baybayon",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231006",
+      "name": "Bulawan",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231007",
+      "name": "Cabidian",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231009",
+      "name": "Cawayanan",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231010",
+      "name": "Del Mar",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231011",
+      "name": "Lungsoda-an",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231012",
+      "name": "Marcelo",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231013",
+      "name": "Minol",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231014",
+      "name": "Paraiso",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231015",
+      "name": "Poblacion I",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231016",
+      "name": "Poblacion II",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231017",
+      "name": "San Isidro",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231018",
+      "name": "San Jose",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231019",
+      "name": "San Rafael",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231020",
+      "name": "San Roque",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231021",
+      "name": "Tambo",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231022",
+      "name": "Tangkigan",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071231023",
+      "name": "Valaga",
+      "parentCode": "071231000"
+    },
+    {
+      "code": "071232001",
+      "name": "San Roque",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232002",
+      "name": "Agahay",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232003",
+      "name": "Aliguay",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232004",
+      "name": "Anislag",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232005",
+      "name": "Bayacabac",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232006",
+      "name": "Bood",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232007",
+      "name": "Busao",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232008",
+      "name": "Cabawan",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232009",
+      "name": "Candavid",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232010",
+      "name": "Dipatlong",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232011",
+      "name": "Guiwanon",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232012",
+      "name": "Jandig",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232013",
+      "name": "Lagtangon",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232014",
+      "name": "Lincod",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232015",
+      "name": "Pagnitoan",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232016",
+      "name": "Poblacion",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232017",
+      "name": "Punsod",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232018",
+      "name": "Punta Cruz",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232019",
+      "name": "San Isidro",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232020",
+      "name": "San Vicente",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232021",
+      "name": "Tinibgan",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071232022",
+      "name": "Toril",
+      "parentCode": "071232000"
+    },
+    {
+      "code": "071233001",
+      "name": "Bil-isan",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233002",
+      "name": "Bolod",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233003",
+      "name": "Danao",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233004",
+      "name": "Doljo",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233005",
+      "name": "Libaong",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233006",
+      "name": "Looc",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233007",
+      "name": "Lourdes",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233008",
+      "name": "Poblacion",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233009",
+      "name": "Tangnan",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071233010",
+      "name": "Tawala",
+      "parentCode": "071233000"
+    },
+    {
+      "code": "071234001",
+      "name": "Aurora",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234002",
+      "name": "Bagacay",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234003",
+      "name": "Bagumbayan",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234004",
+      "name": "Bayong",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234005",
+      "name": "Buenasuerte",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234006",
+      "name": "Cagawasan",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234007",
+      "name": "Cansungay",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234008",
+      "name": "Catagda-an",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234009",
+      "name": "Del Pilar",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234010",
+      "name": "Estaca",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234011",
+      "name": "Ilaud",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234012",
+      "name": "Inaghuban",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234013",
+      "name": "La Suerte",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234014",
+      "name": "Lumbay",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234015",
+      "name": "Lundag",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234016",
+      "name": "Pamacsalan",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234017",
+      "name": "Poblacion",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234018",
+      "name": "Rizal",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234019",
+      "name": "San Carlos",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234020",
+      "name": "San Isidro",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071234021",
+      "name": "San Vicente",
+      "parentCode": "071234000"
+    },
+    {
+      "code": "071235001",
+      "name": "Aguining",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235003",
+      "name": "Basiao",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235004",
+      "name": "Baud",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235005",
+      "name": "Bayog",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235006",
+      "name": "Bogo",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235007",
+      "name": "Bonbonon",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235008",
+      "name": "Canmangao",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235009",
+      "name": "Campamanog",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235010",
+      "name": "Gaus",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235011",
+      "name": "Kabangkalan",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235012",
+      "name": "Lapinig",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235013",
+      "name": "Lipata",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235014",
+      "name": "Poblacion",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235015",
+      "name": "Popoo",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235016",
+      "name": "Saguise",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235017",
+      "name": "San Jose",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235018",
+      "name": "Santo Rosario",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235019",
+      "name": "Tilmobo",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235020",
+      "name": "Tugas",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235021",
+      "name": "Tugnao",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235022",
+      "name": "Villa Milagrosa",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235023",
+      "name": "Butan",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071235024",
+      "name": "San Vicente",
+      "parentCode": "071235000"
+    },
+    {
+      "code": "071236001",
+      "name": "Calangahan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236002",
+      "name": "Canmano",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236003",
+      "name": "Canmaya Centro",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236004",
+      "name": "Canmaya Diot",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236005",
+      "name": "Dagnawan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236006",
+      "name": "Kabasacan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236007",
+      "name": "Kagawasan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236008",
+      "name": "Katipunan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236009",
+      "name": "Langtad",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236010",
+      "name": "Libertad Norte",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236011",
+      "name": "Libertad Sur",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236012",
+      "name": "Mantalongon",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236013",
+      "name": "Poblacion",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236014",
+      "name": "Sagbayan Sur",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236015",
+      "name": "San Agustin",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236016",
+      "name": "San Antonio",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236017",
+      "name": "San Isidro",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236018",
+      "name": "San Ramon",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236019",
+      "name": "San Roque",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236020",
+      "name": "San Vicente Norte",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236021",
+      "name": "San Vicente Sur",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236022",
+      "name": "Santa Catalina",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236023",
+      "name": "Santa Cruz",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071236024",
+      "name": "Ubojan",
+      "parentCode": "071236000"
+    },
+    {
+      "code": "071237002",
+      "name": "Abehilan",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237003",
+      "name": "Baunos",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237005",
+      "name": "Cabanugan",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237006",
+      "name": "Caimbang",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237007",
+      "name": "Cambansag",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237008",
+      "name": "Candungao",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237009",
+      "name": "Cansague Norte",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237010",
+      "name": "Cansague Sur",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237011",
+      "name": "Causwagan Sur",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237012",
+      "name": "Masonoy",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237013",
+      "name": "Poblacion",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071237014",
+      "name": "Baryong Daan",
+      "parentCode": "071237000"
+    },
+    {
+      "code": "071238001",
+      "name": "Bayongan",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238003",
+      "name": "Bugang",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238004",
+      "name": "Cabangahan",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238005",
+      "name": "Kagawasan",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238006",
+      "name": "Camanaga",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238007",
+      "name": "Cambangay Norte",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238008",
+      "name": "Capayas",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238009",
+      "name": "Corazon",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238010",
+      "name": "Garcia",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238011",
+      "name": "Hagbuyo",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238012",
+      "name": "Caluasan",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238013",
+      "name": "Mahayag",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238014",
+      "name": "Poblacion",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238015",
+      "name": "San Isidro",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238016",
+      "name": "San Jose",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238017",
+      "name": "San Vicente",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238018",
+      "name": "Santo Niño",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071238019",
+      "name": "Tomoc",
+      "parentCode": "071238000"
+    },
+    {
+      "code": "071239001",
+      "name": "Bayawahan",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239002",
+      "name": "Cabancalan",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239003",
+      "name": "Calinga-an",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239004",
+      "name": "Calinginan Norte",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239005",
+      "name": "Calinginan Sur",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239006",
+      "name": "Cambagui",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239008",
+      "name": "Ewon",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239009",
+      "name": "Guinob-an",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239010",
+      "name": "Lagtangan",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239011",
+      "name": "Licolico",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239012",
+      "name": "Lobgob",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239013",
+      "name": "Magsaysay",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071239014",
+      "name": "Poblacion",
+      "parentCode": "071239000"
+    },
+    {
+      "code": "071240001",
+      "name": "Abachanan",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240002",
+      "name": "Anibongan",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240003",
+      "name": "Bugsoc",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240004",
+      "name": "Canlangit",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240005",
+      "name": "Canta-ub",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240006",
+      "name": "Casilay",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240007",
+      "name": "Danicop",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240008",
+      "name": "Dusita",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240009",
+      "name": "Cahayag",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240010",
+      "name": "La Union",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240011",
+      "name": "Lataban",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240012",
+      "name": "Magsaysay",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240013",
+      "name": "Matin-ao",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240014",
+      "name": "Man-od",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240015",
+      "name": "Poblacion",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240016",
+      "name": "Salvador",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240017",
+      "name": "San Agustin",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240018",
+      "name": "San Isidro",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240019",
+      "name": "San Jose",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240020",
+      "name": "San Juan",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240021",
+      "name": "Santa Cruz",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071240022",
+      "name": "Villa Garcia",
+      "parentCode": "071240000"
+    },
+    {
+      "code": "071241001",
+      "name": "Abucay Norte",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241002",
+      "name": "Abucay Sur",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241003",
+      "name": "Badiang",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241004",
+      "name": "Bahaybahay",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241005",
+      "name": "Cambuac Norte",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241006",
+      "name": "Cambuac Sur",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241007",
+      "name": "Canagong",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241008",
+      "name": "Libjo",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241009",
+      "name": "Poblacion I",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071241010",
+      "name": "Poblacion II",
+      "parentCode": "071241000"
+    },
+    {
+      "code": "071242001",
+      "name": "Bool",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242002",
+      "name": "Booy",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242003",
+      "name": "Cabawan",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242004",
+      "name": "Cogon",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242005",
+      "name": "Dao",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242006",
+      "name": "Dampas",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242008",
+      "name": "Manga",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242009",
+      "name": "Mansasa",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242010",
+      "name": "Poblacion I",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242011",
+      "name": "Poblacion II",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242012",
+      "name": "Poblacion III",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242013",
+      "name": "San Isidro",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242014",
+      "name": "Taloto",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242015",
+      "name": "Tiptip",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071242016",
+      "name": "Ubujan",
+      "parentCode": "071242000"
+    },
+    {
+      "code": "071243001",
+      "name": "Bagacay",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243002",
+      "name": "Balintawak",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243006",
+      "name": "Burgos",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243007",
+      "name": "Busalian",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243008",
+      "name": "Calituban",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243009",
+      "name": "Cataban",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243010",
+      "name": "Guindacpan",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243013",
+      "name": "Magsaysay",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243014",
+      "name": "Mahanay",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243017",
+      "name": "Nocnocan",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243021",
+      "name": "Poblacion",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243023",
+      "name": "Rizal",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243024",
+      "name": "Sag",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243026",
+      "name": "San Agustin",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243027",
+      "name": "San Carlos",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243028",
+      "name": "San Francisco",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243029",
+      "name": "San Isidro",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243030",
+      "name": "San Jose",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243031",
+      "name": "San Pedro",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243032",
+      "name": "San Roque",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243033",
+      "name": "Santo Niño",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243034",
+      "name": "Sikatuna",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243035",
+      "name": "Suba",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243036",
+      "name": "Tanghaligue",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071243038",
+      "name": "Zamora",
+      "parentCode": "071243000"
+    },
+    {
+      "code": "071244001",
+      "name": "Banlasan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244002",
+      "name": "Bongbong",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244003",
+      "name": "Catoogan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244004",
+      "name": "Guinobatan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244005",
+      "name": "Hinlayagan Ilaud",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244006",
+      "name": "Hinlayagan Ilaya",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244007",
+      "name": "Kauswagan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244008",
+      "name": "Kinan-oan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244009",
+      "name": "La Union",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244010",
+      "name": "La Victoria",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244012",
+      "name": "Mabuhay Cabigohan",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244013",
+      "name": "Mahagbu",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244014",
+      "name": "Manuel M. Roxas",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244015",
+      "name": "Poblacion",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244016",
+      "name": "San Isidro",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244017",
+      "name": "San Vicente",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244018",
+      "name": "Santo Tomas",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244019",
+      "name": "Soom",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244020",
+      "name": "Tagum Norte",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071244021",
+      "name": "Tagum Sur",
+      "parentCode": "071244000"
+    },
+    {
+      "code": "071245001",
+      "name": "Bagongbanwa",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245002",
+      "name": "Bunacan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245003",
+      "name": "Banlasan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245004",
+      "name": "Batasan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245005",
+      "name": "Bilangbilangan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245006",
+      "name": "Bosongon",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245007",
+      "name": "Buenos Aires",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245008",
+      "name": "Cabulihan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245009",
+      "name": "Cahayag",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245010",
+      "name": "Cawayanan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245011",
+      "name": "Centro (Pob.)",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245012",
+      "name": "Genonocan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245013",
+      "name": "Guiwanon",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245014",
+      "name": "Ilihan Norte",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245015",
+      "name": "Ilihan Sur",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245016",
+      "name": "Libertad",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245017",
+      "name": "Macaas",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245018",
+      "name": "Mocaboc Island",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245019",
+      "name": "Matabao",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245020",
+      "name": "Panadtaran",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245021",
+      "name": "Panaytayon",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245022",
+      "name": "Pandan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245023",
+      "name": "Pangapasan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245024",
+      "name": "Pinayagan Norte",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245025",
+      "name": "Pinayagan Sur",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245026",
+      "name": "Pooc Occidental (Pob.)",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245027",
+      "name": "Pooc Oriental (Pob.)",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245028",
+      "name": "Potohan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245029",
+      "name": "Talenceras",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245030",
+      "name": "Tan-awan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245031",
+      "name": "Tinangnan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245032",
+      "name": "Ubay Island",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245033",
+      "name": "Ubojan",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071245034",
+      "name": "Villanueva",
+      "parentCode": "071245000"
+    },
+    {
+      "code": "071246001",
+      "name": "Achila",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246002",
+      "name": "Bay-ang",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246004",
+      "name": "Biabas",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246005",
+      "name": "Benliw",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246007",
+      "name": "Bongbong",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246008",
+      "name": "Bood",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246009",
+      "name": "Buenavista",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246011",
+      "name": "Cagting",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246012",
+      "name": "Camali-an",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246013",
+      "name": "Camambugan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246015",
+      "name": "Casate",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246016",
+      "name": "Katarungan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246017",
+      "name": "Cuya",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246018",
+      "name": "Fatima",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246019",
+      "name": "Gabi",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246020",
+      "name": "Governor Boyles",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246021",
+      "name": "Guintabo-an",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246022",
+      "name": "Hambabauran",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246023",
+      "name": "Humayhumay",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246024",
+      "name": "Ilihan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246025",
+      "name": "Imelda",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246026",
+      "name": "Juagdan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246027",
+      "name": "Calanggaman",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246030",
+      "name": "Los Angeles",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246031",
+      "name": "Lomangog",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246032",
+      "name": "Pag-asa",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246033",
+      "name": "Pangpang",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246034",
+      "name": "Poblacion",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246037",
+      "name": "San Francisco",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246038",
+      "name": "San Isidro",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246040",
+      "name": "San Pascual",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246041",
+      "name": "San Vicente",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246043",
+      "name": "Sentinila",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246044",
+      "name": "Sinandigan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246045",
+      "name": "Tapal",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246046",
+      "name": "Tapon",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246047",
+      "name": "Tintinan",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246048",
+      "name": "Tipolo",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246049",
+      "name": "Tubog",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246050",
+      "name": "Tuboran",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246052",
+      "name": "Union",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246054",
+      "name": "Villa Teresita",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246055",
+      "name": "Bulilis",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071246056",
+      "name": "California",
+      "parentCode": "071246000"
+    },
+    {
+      "code": "071247001",
+      "name": "Adlawan",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247002",
+      "name": "Anas",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247003",
+      "name": "Anonang",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247004",
+      "name": "Anoyon",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247005",
+      "name": "Balingasao",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247006",
+      "name": "Botong",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247007",
+      "name": "Buyog",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247008",
+      "name": "Canduao Occidental",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247009",
+      "name": "Canduao Oriental",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247010",
+      "name": "Canlusong",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247011",
+      "name": "Canmanico",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247012",
+      "name": "Cansibao",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247013",
+      "name": "Catug-a",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247014",
+      "name": "Cutcutan",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247015",
+      "name": "Danao",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247016",
+      "name": "Genoveva",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247017",
+      "name": "Ginopolan",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247018",
+      "name": "La Victoria",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247019",
+      "name": "Lantang",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247020",
+      "name": "Limocon",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247021",
+      "name": "Loctob",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247022",
+      "name": "Magsaysay",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247023",
+      "name": "Marawis",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247024",
+      "name": "Maubo",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247025",
+      "name": "Nailo",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247026",
+      "name": "Omjon",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247027",
+      "name": "Pangi-an",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247028",
+      "name": "Poblacion Occidental",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247029",
+      "name": "Poblacion Oriental",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247030",
+      "name": "Simang",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247031",
+      "name": "Taug",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247032",
+      "name": "Tausion",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247033",
+      "name": "Taytay",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247034",
+      "name": "Ticum",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071247035",
+      "name": "Banderahan",
+      "parentCode": "071247000"
+    },
+    {
+      "code": "071248001",
+      "name": "Bilangbilangan Dako",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248002",
+      "name": "Bilangbilangan Diot",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248003",
+      "name": "Hingotanan East",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248004",
+      "name": "Hingotanan West",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248005",
+      "name": "Liberty",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248006",
+      "name": "Malingin",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248007",
+      "name": "Mandawa",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248008",
+      "name": "Maomawan",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248009",
+      "name": "Nueva Esperanza",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248010",
+      "name": "Nueva Estrella",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248011",
+      "name": "Pinamgo",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248012",
+      "name": "Poblacion",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248013",
+      "name": "Puerto San Pedro",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248014",
+      "name": "Sagasa",
+      "parentCode": "071248000"
+    },
+    {
+      "code": "071248015",
+      "name": "Tuboran",
+      "parentCode": "071248000"
+    }
+  ]
+}

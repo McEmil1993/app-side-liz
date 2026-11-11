@@ -1,0 +1,104 @@
+name: Flutter iOS unsigned build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: flutter-ios-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  unsigned-ios:
+    runs-on: macos-26
+    timeout-minutes: 45
+    env:
+      BYPASS_PERMISSION_LOCATION_ALWAYS: '1'
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Verify macOS and select stable Xcode 26
+        run: |
+          set -euo pipefail
+          sw_vers
+          test "$(sw_vers -productVersion | cut -d. -f1)" = "26"
+          test -d /Applications/Xcode_26.6.app
+          sudo xcode-select --switch /Applications/Xcode_26.6.app/Contents/Developer
+          xcodebuild -version
+          test "$(xcodebuild -version | head -n1)" = "Xcode 26.6"
+          xcodebuild -showsdks
+          pod --version
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: '3.44.8'
+          cache: true
+
+      - name: Diagnose toolchain and resolve locked dependencies
+        run: |
+          set -euo pipefail
+          flutter doctor -v
+          flutter pub get --enforce-lockfile
+          flutter precache --ios
+          python3 tool/verify_ios.py
+
+      - name: Analyze Flutter code
+        run: flutter analyze
+
+      - name: Prepare native dependencies
+        # Flutter generates Swift packages and installs CocoaPods fallback plugins.
+        run: |
+          set -euo pipefail
+          flutter build ios --release --no-codesign --config-only
+          (cd ios && pod install)
+          mkdir -p build/ios
+          xcodebuild -workspace ios/Runner.xcworkspace -scheme Runner \
+            -configuration Release -sdk iphoneos -showBuildSettings \
+            CODE_SIGNING_ALLOWED=NO -json > build/ios/release-settings.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          settings = json.loads(Path('build/ios/release-settings.json').read_text())
+          runner = next(item['buildSettings'] for item in settings if item['target'] == 'Runner')
+          assert runner['IPHONEOS_DEPLOYMENT_TARGET'] == '16.0', runner
+          assert 'arm64' in runner['ARCHS'].split(), runner['ARCHS']
+          assert 'arm64' not in runner.get('EXCLUDED_ARCHS', '').split(), runner.get('EXCLUDED_ARCHS')
+          PY
+
+      - name: Build unsigned release for physical iOS devices
+        run: flutter build ios --release --no-codesign
+
+      - name: Verify and package unsigned application
+        run: |
+          set -euo pipefail
+          python3 tool/verify_ios.py --app build/ios/iphoneos/Runner.app
+          ditto -c -k --sequesterRsrc --keepParent \
+            build/ios/iphoneos/Runner.app build/flutter-ios-unsigned-build.zip
+          test -s build/flutter-ios-unsigned-build.zip
+          echo 'Unsigned ARM64 app, minimum iOS 16.0. Requires signing before installation; physical iPhone 8 testing remains required.' >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload unsigned application archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: flutter-ios-unsigned-build
+          path: build/flutter-ios-unsigned-build.zip
+          if-no-files-found: error
+          retention-days: 7
+          compression-level: 0
+
+      - name: Run automated tests
+        # Keep failures visible while preserving an already uploaded build.
+        # The existing live API test is opt-in and remains skipped without its backend.
+        run: flutter test
